@@ -2,6 +2,7 @@
   "name": "css-modules",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://belgiajong.github.io/nasa-facts",
   "dependencies": {
     "classnames": "^2.2.5",
     "custom-react-scripts": "0.2.1",
@@ -16,5 +17,5 @@
   },
   "devDependencies": {
     "css-loader": "^0.28.7"
-  }
+  },
 }
